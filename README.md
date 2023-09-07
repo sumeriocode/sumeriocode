@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SumerioCode</h1>
+<h1 align="center">Hi 👋, I'm Yosef Codes</h1>
 <h3 align="center">A passionate FullStack developer, I have with Java, Node Js, Angular, React, React Native among others. Development of mobile and web applications</h3>
 
 # 💫 About Me:
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sumeriocode**
 
-- 📄 Know about my experiences [sumeriocode.com](sumeriocode.com)
+- 📄 Know about my experiences [yosefcodes.com](yosefcodes.com)
 
 - ⚡ Fun fact **I like video games and soccer**
 
